@@ -1,7 +1,8 @@
-# 🚀 Hands-On-Learning-LangChain
-
 <p align="center">
-  <b>《手把手实践 LangChain 官方文档：从核心组件到高级用法》</b>
+   <b>🚀 Hands-On-Learning-LangChain</b>
+</p>
+<p align="center">
+  <b>手把手带你实践 LangChain 官方文档：从核心组件到高级用法</b>
 </p>
 
 <div align="center">
