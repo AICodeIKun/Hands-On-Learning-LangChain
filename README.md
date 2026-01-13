@@ -1,10 +1,22 @@
-# Hands-On-Learning-LangChain
+# 🚀 Hands-On-Learning-LangChain
 
-# 🚀 动手学 LangChain
+<p align="center">
+  <b>《手把手实践 LangChain 官方文档：从核心组件到高级用法》</b>
+</p>
 
-🤖 **《手把手实践 LangChain 官方文档：从核心组件到高级用法》**
+<div align="center">
 
-本教程提供与 LangChain 官方文档结构同步的**代码驱动式实践指南**。我相信，理解框架的最佳方式不是阅读，而是动手构建。
+![GitHub Stars](https://img.shields.io/github/stars/codeSnakeKun/Hands-On-Learning-LangChain?style=for-the-badge&logo=github&color=yellow)
+![GitHub Forks](https://img.shields.io/github/forks/codeSnakeKun/Hands-On-Learning-LangChain?style=for-the-badge&logo=github&color=blue)
+![Language](https://img.shields.io/badge/语言-中文-blue?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/许可证-MIT-green?style=for-the-badge)
+
+**从核心组件到高级应用，全面掌握 LangChain 实战技能**
+
+[![在线阅读](https://img.shields.io/badge/在线阅读-Online_Reading-ff69b4?style=for-the-badge&logo=bookstack)](https://github.com/codeSnakeKun/Hands-On-Learning-LangChain/blob/main/docs/chapter1/%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6--%E6%99%BA%E8%83%BD%E4%BD%93%E5%AE%9E%E8%B7%B5.md)
+[![开始学习](https://img.shields.io/badge/🚀-开始学习-orange?style=for-the-badge&logo=rocket)](https://github.com/codeSnakeKun/Hands-On-Learning-LangChain/blob/main/docs/chapter1/%E6%A0%B8%E5%BF%83%E7%BB%84%E4%BB%B6--%E6%99%BA%E8%83%BD%E4%BD%93%E5%AE%9E%E8%B7%B5.md)
+
+</div>
 
 ---
 
