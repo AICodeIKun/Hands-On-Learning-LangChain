@@ -49,7 +49,7 @@ def dynamic_model_selection(request: ModelRequest, handler) -> ModelResponse:
     # 根据消息数量选择不同的模型处理方式
     if message_count > 10:
         # 对较长的对话，使用推理模型
-        model = basic_model
+        model = advanced_model
         print("使用高级模型处理: deepseek-reasoner")
     else:
         # 对较短的对话，使用基础模型
@@ -88,5 +88,4 @@ if __name__ == "__main__":
     result2 = agent.invoke(
         {"messages": messages}
     )
-
     print("智能体回复:", result2["messages"][-1].content)
