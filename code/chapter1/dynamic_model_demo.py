@@ -18,7 +18,6 @@ if not api_key:
     exit(1)  # 如果API密钥未设置，退出程序
 
 # 创建模型实例
-# 注意：这里我们只创建一个模型实例，实际应用中可以创建多个不同配置的模型
 basic_model = ChatDeepSeek(
     model="deepseek-chat",  # 模型名称
     api_key=api_key  # 传入API密钥
@@ -89,4 +88,5 @@ if __name__ == "__main__":
     result2 = agent.invoke(
         {"messages": messages}
     )
+
     print("智能体回复:", result2["messages"][-1].content)
