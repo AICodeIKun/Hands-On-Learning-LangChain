@@ -9,8 +9,7 @@
 
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/codeSnakeKun/Hands-On-Learning-LangChain?style=for-the-badge&logo=github&color=yellow)
-![GitHub Forks](https://img.shields.io/github/forks/codeSnakeKun/Hands-On-Learning-LangChain?style=for-the-badge&logo=github&color=blue)
+
 ![Language](https://img.shields.io/badge/语言-中文-blue?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/许可证-MIT-green?style=for-the-badge)
 
