@@ -102,4 +102,5 @@ if __name__ == "__main__":
         {"messages": [{"role": "user", "content": "解释机器学习的原理"}]}
         # 不传入上下文，使用默认角色
     )
+
     print("默认模式回复:", result3["messages"][-1].content)
