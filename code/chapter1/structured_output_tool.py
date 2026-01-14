@@ -76,13 +76,13 @@ if __name__ == "__main__":
     
     # 访问结构化响应的字段
     print("=== 结构化响应字段访问 ===")
-    print(f"姓名: {result['structured_response'].name}")
-    print(f"邮箱: {result['structured_response'].email}")
-    print(f"电话: {result['structured_response'].phone}")
+    print(f"姓名: {result["structured_response"].name}")
+    print(f"邮箱: {result["structured_response"].email}")
+    print(f"电话: {result["structured_response"].phone}")
     print()
     
     # 分析响应结构
     print("=== 响应结构分析 ===")
     print(f"响应类型: {type(result)}")
     print(f"响应包含的键: {list(result.keys())}")
-    print(f"结构化响应类型: {type(result['structured_response'])}")
+    print(f"结构化响应类型: {type(result["structured_response"])}")
